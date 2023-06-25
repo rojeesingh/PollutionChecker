@@ -2,6 +2,13 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
+## High Level Architecture Diagram
+
+![high level architecture diagram](https://github.com/rojeesingh/PollutionChecker/assets/65804189/9ff7bafa-c489-46b3-9a22-69818d8471d4)
+
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
