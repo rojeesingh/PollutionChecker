@@ -1,0 +1,3 @@
+com\stackroute\wishlistms\service\WishListServiceImplTest.class
+com\stackroute\wishlistms\controller\WishListRestApiTest.class
+com\stackroute\wishlistms\DemoApplicationTests.class
